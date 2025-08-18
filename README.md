@@ -6,7 +6,8 @@ All exercises are written and submitted in **Jupyter Notebooks (`.ipynb`)**.
 ---
 
 ## 🧑‍💻 About
-- **Course Code:** CCMACLRL  
+- **Course Code:** CCMACLRL
+- **Section:** COM231ML
 - **Course Title:** Introduction to Machine Learning  
 - **Academic Year:** 2025–2026 (1st Term)  
 - **Format:** Jupyter Notebook (`.ipynb`)  
@@ -25,3 +26,4 @@ To run the notebooks, ensure you have the following installed:
   - `pandas`
   - `matplotlib`
   - `scikit-learn`
+

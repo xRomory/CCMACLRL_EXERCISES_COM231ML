@@ -31,7 +31,6 @@ Thumbs.db
 *.log
 
 # Data files (optional: comment out if you want datasets tracked)
-*.csv
 *.tsv
 *.json
 *.db

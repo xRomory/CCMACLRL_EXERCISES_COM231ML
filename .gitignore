@@ -33,8 +33,6 @@ Thumbs.db
 # Data files (optional: comment out if you want datasets tracked)
 *.csv
 *.tsv
-*.xls
-*.xlsx
 *.json
 *.db
 *.sqlite
